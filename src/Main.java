@@ -91,7 +91,7 @@ public class Main {
              numberS[t] += 1;
          }
         }
-
+        System.out.println(Arrays.toString(numberS));
 
 
 
